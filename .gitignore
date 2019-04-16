@@ -1,0 +1,5 @@
+# Dependency directories
+#cache/
+#var/cache/*
+#var/logs/*
+#img/tmp/*.jpg

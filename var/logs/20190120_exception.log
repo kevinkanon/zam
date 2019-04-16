@@ -1,0 +1,11 @@
+*ERROR* 	v1.7.4.2	2019/01/20 - 16:54:02: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 16:54:11: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:00:45: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:01:02: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:01:06: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:02:32: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:03:38: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:04:54: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:04:58: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:06:44: Link to database cannot be established: SQLSTATE[HY000] [1044] Access denied for user 'kanonkevin_admin'@'localhost' to database 'kanonkevin_zamofficiel' at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2019/01/20 - 17:07:17: Link to database cannot be established: SQLSTATE[HY000] [1044] Access denied for user 'kanonkevin_admin'@'localhost' to database 'kanonkevin_zamofficiel' at line 120 in file classes/db/DbPDO.php
