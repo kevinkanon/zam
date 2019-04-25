@@ -3,9 +3,9 @@
   array (
     'database_host' => 'localhost',
     'database_port' => '',
-    'database_name' => 'kanonkevin_zamounda',
-    'database_user' => 'kanonkevin_admin',
-    'database_password' => 'ferariI7&',
+    'database_name' => 'itsnotyourproblem',
+    'database_user' => 'itsnotyourproblem',
+    'database_password' => 'itsnotyourproblem',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
